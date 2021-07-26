@@ -40,11 +40,6 @@
                 "type": "action"
             },
             {
-                "label": "Sign Up",
-                "url": "/signup",
-                "style": "primary"
-            },
-            {
                 "label": "News",
                 "url": "lorem-ipsum",
                 "style": "link",
