@@ -93,7 +93,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Contact Us Anytime!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: 830-816-1724
     actions:
       - label: Contact Us
         url: /signup
