@@ -45,7 +45,7 @@
                 "style": "primary"
             },
             {
-                "label": "Rental Space",
+                "label": "Contact Us",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
@@ -56,7 +56,7 @@
                 "type": "action"
             },
             {
-                "label": "Contact Us",
+                "label": "Rental Space",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
