@@ -45,6 +45,17 @@
                 "style": "primary"
             },
             {
+                "label": "News",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Contact Us",
                 "url": "lorem-ipsum",
                 "style": "link",
@@ -57,17 +68,6 @@
             },
             {
                 "label": "Rental Space",
-                "url": "lorem-ipsum",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "left",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "label": "News",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
