@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: 'Premium Horse Boarding, Training, & Riding'
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Nestled in the heart of the Texas Hill Country, Double Diamond Equestrian
+      Center is a paradise for horses.
     actions:
       - label: Learn More
         url: /features
