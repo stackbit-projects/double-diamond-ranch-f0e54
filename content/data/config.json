@@ -73,7 +73,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Search",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
