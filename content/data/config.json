@@ -56,7 +56,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Contact Us",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
