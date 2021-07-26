@@ -95,7 +95,7 @@ sections:
     title: Contact Us Anytime!
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: Contact US
         url: /signup
         style: primary
   - section_id: recent-posts
